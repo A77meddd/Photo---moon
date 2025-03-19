@@ -307,13 +307,13 @@ button:active {
   border-radius: 50%;
 }
 
-.photo:before {
+/* .photo:before {
   background-color: #faf0ca;
   width: 25px;
   height: 25px;
   top: 20px;
   left: 120px;
-}
+} */
 
 /* .photo:after {
     background-color: #cc5803;
