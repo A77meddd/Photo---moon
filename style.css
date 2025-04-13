@@ -295,7 +295,7 @@ button:active {
 }
 
 .photo {
-  background-image: url("Jerry.png");
+background-image: url("Jerry.png");
   background-size: cover;
   background-position: center;
 }
